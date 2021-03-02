@@ -1,0 +1,26 @@
+D:\study\CODE\Salim\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.exe
+D:\study\CODE\Salim\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.deps.json
+D:\study\CODE\Salim\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.runtimeconfig.json
+D:\study\CODE\Salim\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.runtimeconfig.dev.json
+D:\study\CODE\Salim\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.dll
+D:\study\CODE\Salim\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.pdb
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.csprojAssemblyReference.cache
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.AssemblyInfoInputs.cache
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.AssemblyInfo.cs
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.csproj.CoreCompileInputs.cache
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.dll
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.pdb
+D:\study\CODE\Salim\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.genruntimeconfig.cache
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.exe
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.deps.json
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.runtimeconfig.json
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.runtimeconfig.dev.json
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.dll
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.pdb
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.csprojAssemblyReference.cache
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.AssemblyInfoInputs.cache
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.AssemblyInfo.cs
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.csproj.CoreCompileInputs.cache
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.dll
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.pdb
+G:\FILES 1\AIUB\AS GH\Programing\C#\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.genruntimeconfig.cache
